@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ IVONE CHEPNGETICH
 - 👀 I’m interested in designing and web development
-- 🌱 I’m currently learning  I'm a student at the University Of Embu pursuing Bachelor of Science in Computer Science.
+- 🌱 Graduating student september 2025 at the University Of Embu with Bachelor of Science in Computer Science.
 
 
 <!---
